@@ -25,3 +25,4 @@ grand_total = df['total'].sum()
 formatted_grand_total = format_currency(grand_total)
 print(f"\nGrand Total: {formatted_grand_total}")
 # haha add another comment
+# i dont know what to do hahaahaahaahah
